@@ -52,18 +52,12 @@ Does the submission show an understanding of how to document a functional safety
 
 ### Technical Safety Concept
 
-### Software
+Does the submission demonstrate an understanding of how to document a technical safety concept? Yes,  The five technical safety requirements for the lane departure warning amplitude, are documented correctly.
 
-To complete the project, you will need a word processor and spreadsheet software.
+Does the submission show a knowledge of how to derive technical safety requirements?, Yes, Technical safety requirements were derived for the lane departure warning frequency malfunction and the lane keeping assistance time malfunction.
 
-If you do not have word processing software on your local computer, we suggest using [Google Drive](https://drive.google.com) or [Microsoft Office in the Cloud](https://www.office.com/). Both of these services are free. 
+### Software Requirements and System Architecture
 
-There are also open source word processors such as [LibreOffice](https://www.libreoffice.org/]) and [OpenOffice](https://www.openoffice.org).
+Does the submission demonstrate an understanding of how to document software safety requirements and a software architecture? Yes, Technical safety requirements were derived for the lane departure warning frequency malfunction and the lane keeping assistance time malfunction as well
 
-
-### Submitting
-For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
-
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
