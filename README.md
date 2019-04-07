@@ -28,7 +28,7 @@ The repo contains a PDF file called **Project_Instructions.pdf**. This document 
 
 You will need to fill out all five of these documents in order to meet specifications.  
 
-The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
+The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong. 
 
 
 ### Project Rubric
