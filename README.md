@@ -15,13 +15,13 @@ The repo contains a PDF file called **Project_Instructions.pdf**. This document 
 
 * ![01_SafetyPlan_LaneAssistance.doc](./01_SafetyPlan_LaneAssistance_SD.pdf)
 
-* 02_HazardAnalysisAndRiskAssessment.xlsx
+* ![02_HazardAnalysisAndRiskAssessment.xlsx](./02_HazardAnalysisAndRiskAssessment_SD.pdf)
 
-* 03_FunctionalSafetyConcept_LaneAssistance.doc
+* ![03_FunctionalSafetyConcept_LaneAssistance.doc}(./03_FunctionalSafetyConcept_LaneAssistance_SD.pdf)
 
-* 04_TechnicalSafetyConcept_LaneAssistance.doc
+* ![04_TechnicalSafetyConcept_LaneAssistance.doc](./04_TechnicalSafetyConcept_LaneAssistance_SD.pdf)
 
-* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
+* ![05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc](./05_SoftwareRequirementsAndArchitecture_LaneAssistance_SD.pdf)
 
 You will need to fill out all five of these documents in order to meet specifications.  
 
