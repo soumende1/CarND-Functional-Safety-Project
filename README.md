@@ -16,11 +16,11 @@ First the template files were dowloaded from the Udacity link as given here.  [L
 The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
 
 
-* ![01_SafetyPlan_LaneAssistance.doc](./01_SafetyPlan_LaneAssistance_SD.pdf)
+* [01_SafetyPlan_LaneAssistance.doc](./01_SafetyPlan_LaneAssistance_SD.pdf)
 
 * ![02_HazardAnalysisAndRiskAssessment.xlsx](./02_HazardAnalysisAndRiskAssessment_SD.pdf)
 
-* ![03_FunctionalSafetyConcept_LaneAssistance.doc}(./03_FunctionalSafetyConcept_LaneAssistance_SD.pdf)
+* ![03_FunctionalSafetyConcept_LaneAssistance.doc](./03_FunctionalSafetyConcept_LaneAssistance_SD.pdf)
 
 * ![04_TechnicalSafetyConcept_LaneAssistance.doc](./04_TechnicalSafetyConcept_LaneAssistance_SD.pdf)
 
