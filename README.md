@@ -30,9 +30,27 @@ You will need to fill out all five of these documents in order to meet specifica
 The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong. 
 
 
-### Project Rubric
-You can find the project rubric in the classroom. 
+## Project Rubric
 
+### Project Documents
+
+Have all of the documents been submitted? - Yes , see the 5 links provided above
+
+### Safety Plan
+
+Does the submission demonstrate a working knowledge of how to develop a safety plan? - Yes the safety plan was explained in the above documents and all concerned template were filled.
+
+### Hazard Analysis and Risk Assessment
+
+Does the submission demonstrate how to document a hazard analysis and risk assessment? The hazard analysis and risk assessment for the lane departure warning and the lane keeping assistance functions are provided in the above documents
+
+Does the submission include two other reasonable hazard analyses for the lane assistance system that were not discussed in the lessons?- Yes, Two extra hazard analyses and risk assessments were provided in the documents.
+
+### Functional Safety Concept
+
+Does the submission show an understanding of how to document a functional safety concept? All required sections from the functional safety concept template have been completed
+
+### Technical Safety Concept
 
 ### Software
 
