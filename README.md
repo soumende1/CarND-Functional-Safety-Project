@@ -12,19 +12,18 @@ This project consist on creating the documentation for the functional safety of 
 
 First the template files were dowloaded from the Udacity link as given here.  [Link to templates](https://github.com/udacity/CarND-Functional-Safety-Project)
 
-
-The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+The Udacity repo also contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. Using the instructions provided in the files, the following five templates were filled accordingly and the converted into pdf files, which can be found by clicking the respective link below.
 
 
 * [01_SafetyPlan_LaneAssistance.doc](./01_SafetyPlan_LaneAssistance_SD.pdf)
 
-* ![02_HazardAnalysisAndRiskAssessment.xlsx](./02_HazardAnalysisAndRiskAssessment_SD.pdf)
+* [02_HazardAnalysisAndRiskAssessment.xlsx](./02_HazardAnalysisAndRiskAssessment_SD.pdf)
 
-* ![03_FunctionalSafetyConcept_LaneAssistance.doc](./03_FunctionalSafetyConcept_LaneAssistance_SD.pdf)
+* [03_FunctionalSafetyConcept_LaneAssistance.doc](./03_FunctionalSafetyConcept_LaneAssistance_SD.pdf)
 
-* ![04_TechnicalSafetyConcept_LaneAssistance.doc](./04_TechnicalSafetyConcept_LaneAssistance_SD.pdf)
+* [04_TechnicalSafetyConcept_LaneAssistance.doc](./04_TechnicalSafetyConcept_LaneAssistance_SD.pdf)
 
-* ![05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc](./05_SoftwareRequirementsAndArchitecture_LaneAssistance_SD.pdf)
+* [05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc](./05_SoftwareRequirementsAndArchitecture_LaneAssistance_SD.pdf)
 
 You will need to fill out all five of these documents in order to meet specifications.  
 
