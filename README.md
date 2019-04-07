@@ -8,9 +8,9 @@ This project consist on creating the documentation for the functional safety of 
 - #### Lane keeping assistance: When the driver drift toward the edge of the lane, the steering wheel is turned toward the center of the        lane to keep the car on its current lane
 
 
-### Description of Repo Files
+### Description of  Files
 
-This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
+First the template files were dowloaded from the Udacity link as given here.  [Link to templates](https://github.com/udacity/CarND-Functional-Safety-Project)
 
 
 The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
