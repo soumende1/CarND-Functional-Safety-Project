@@ -2,7 +2,10 @@
 
 
 
-Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+This project consist on creating the documentation for the functional safety of a Lane Assistance system under the umbrella of the Road vehicles - Functional safety : ISO 26262. ISO 26262 is an international standard for functional safety on electrical and/or electronic system in production automobiles defined by the International Organization for Standardization (ISO). The Lane Assistance system is part of a Advanced Driver Assistance System(ADAS) with the following functionalities:
+
+- ### Lane departure warning: When the driver drift toward the edge of the lane, the steering wheel vibrates to alert the driver.
+- ###Lane keeping assistance: When the driver drift toward the edge of the lane, the steering wheel is turned toward the center of the lane to keep the car on its current lane
 
 
 ### Description of Repo Files
